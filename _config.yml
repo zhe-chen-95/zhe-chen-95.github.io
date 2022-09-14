@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Chen / Well come to Zhe Chen's Homepage"
+title                    : "Zhe Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Zhe Chen"
 description              : &description "personal description"
