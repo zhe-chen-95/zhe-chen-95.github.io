@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhe Chen 陈喆's Homepage"
+title: "Welcome!"
 excerpt: "Zhe Chen 陈喆, Math PhD, Courant, NYU"
 author_profile: true
 redirect_from: 
@@ -27,7 +27,7 @@ I am a Ph.D. candidate in Mathematics at the [Courant Institute of Mathematical 
 
 ### Education
 
-Ph.D. in Mathematics, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), [New York University](https://www.nyu.edu/)		09/18 - 05/23 (Expected)  
+Ph.D. in Mathematics, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), [New York University](https://www.nyu.edu/),	09/18 - 05/23 (Expected)  
 
 Bachelor in Mathematics, with Honors, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 09/13 - 06/18
 
