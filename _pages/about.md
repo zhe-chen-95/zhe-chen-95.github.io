@@ -29,9 +29,9 @@ I am a Ph.D. candidate in Mathematics at the [Courant Institute of Mathematical 
 
 Ph.D. in Mathematics, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), [New York University](https://www.nyu.edu/),	09/18 - 05/23 (Expected)  
 
-Bachelor in Mathematics, with Honors, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 09/13 - 06/18
+B.A. in Mathematics, with Honors, [School of Mathematical Sciences](https://www.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 09/13 - 06/18
 
-Bachelor in Physics (double major), [School of Physics](https://english.phy.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 09/13 - 06/18
+B.A. in Physics (double major), [School of Physics](https://english.phy.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 09/13 - 06/18
 
 ## Contact
 
