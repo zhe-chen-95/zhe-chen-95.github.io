@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Zhe Chen 陈喆"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Mathematics,  
-  Courant Institute of Mathematical Sciences,  
-  New York University"
+  avatar           : "Zhe_Chen_Profile_1_1.JPG"
+  bio              : "<p>Ph.D. Candidate in Mathematics,  <br>
+  Courant Institute of Mathematical Sciences,  <br>
+  New York University<p>"
   location         : "NYC, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fEAniGAAAAAJ&hl=en"
-  email            : "zc1291@nyu.edu"
+  email            : # "zc1291@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhe-chen-95"
+  github           : "zhe-chen-95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhe-chen-42006913a/"
+  linkedin         : "zhe-chen-42006913a"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3155-8288"
   pinterest        :
   soundcloud       :
