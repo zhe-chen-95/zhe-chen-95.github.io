@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: # "Welcome!"
 excerpt: "Zhe Chen 陈喆, Math PhD, Courant, NYU"
 author_profile: true
 redirect_from: 
