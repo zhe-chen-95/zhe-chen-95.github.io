@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant/Grader of Complex Variables (One-Term) (MATH-GA 2451)"
+title: "Fall 2021, Complex Variables (One-Term) (MATH-GA 2451), Grad Core"
 collection: teaching
-type: "Grad Core"
+type: "Teaching Assistant/Grader"
 permalink: /teaching/teaching-3
-venue: "Courant Institute of Mathematical Sciences, New York University, Fall 2021"
-# date: 2014-01-01
+venue: "Courant Institute of Mathematical Sciences, New York University"
+date: 2021-09-01
 location: "New York, NY"
 ---
 

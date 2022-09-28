@@ -1,10 +1,10 @@
 ---
-title: "Instructor of Calculus I (MATH-UA 121)"
+title: "Summer 2022, Calculus I (MATH-UA 121), Undergrad Core"
 collection: teaching
-type: "Undergrad Core"
+type: "Instructor"
 permalink: /teaching/teaching-5
-venue: "College of Arts & Science, New York University, Summer 2022"
-# date: 2014-01-01
+venue: "College of Arts & Science, New York University"
+date: 2022-07-01
 location: "New York, NY"
 ---
 
