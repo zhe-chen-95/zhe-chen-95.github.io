@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # "Welcome!"
+title:  "Welcome to Zhe Chen 陈喆's Homepage!"
 excerpt: "Zhe Chen 陈喆, Math PhD, Courant, NYU"
 author_profile: true
 redirect_from: 
@@ -14,8 +14,10 @@ redirect_from:
 * I moved my office to WWH 1030, Courant, NYU, wellcome to stop by!
 
 ## About
-I am a Ph.D. candidate in Mathematics at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), [New York University](https://www.nyu.edu/), supervised by [Professor Charles S. Peskin](https://www.math.nyu.edu/~peskin/). I specialize in the area of applied and computational mathematics. I am a Henry M. MacCracken Fellowship from 2018 to 2023. Prior to my PhD at NYU, I graduated from [Peking University](https://english.pku.edu.cn/) with a B.S. in Mathematics (with Honors) and a B.S. in Physics (double major), where I was part of [Professor Pingwen Zhang](https://www.math.pku.edu.cn/pzhang/en/)'s research group. 
+I am a Ph.D. candidate in Mathematics at the [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), [New York University](https://www.nyu.edu/), supervised by [Professor Charles S. Peskin](https://www.math.nyu.edu/~peskin/). I specialize in the area of Applied and Computational Mathematics. I am a Henry M. MacCracken Fellowship from 2018 to 2023. Prior to my Ph.D. at NYU, I graduated from [Peking University](https://english.pku.edu.cn/) with a B.S. in Mathematics (with Honors) and a B.S. in Physics (double major), where I was part of [Professor Pingwen Zhang](https://www.math.pku.edu.cn/pzhang/en/)'s research group. 
 
+
+[***Curriculum Vitae***](zhe-chen-95.github.io/files/ZheChen_CV.pdf)
 
 ### Research Interests
 
