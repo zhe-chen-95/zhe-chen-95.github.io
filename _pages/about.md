@@ -1,7 +1,7 @@
 ---
 permalink: /
-title:  "Welcome to Zhe Chen 陈喆's Homepage!"
-excerpt: "Zhe Chen 陈喆, Math PhD, Courant, NYU"
+title:  "Welcome to Zhe Chen (陈喆)'s Homepage!"
+excerpt: "Zhe Chen (陈喆), Math PhD, Courant, NYU"
 author_profile: true
 redirect_from: 
   - /about/
