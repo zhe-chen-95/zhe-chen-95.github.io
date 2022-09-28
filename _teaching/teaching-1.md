@@ -7,4 +7,3 @@ venue: "Courant Institute of Mathematical Sciences, New York University"
 date: 2019-09-01
 location: "New York, NY"
 ---
-
